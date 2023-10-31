@@ -1,0 +1,13 @@
+C:\Users\dkali\source\repos\MetodaFabryczna\bin\Debug\netcoreapp3.1\MetodaFabryczna.exe
+C:\Users\dkali\source\repos\MetodaFabryczna\bin\Debug\netcoreapp3.1\MetodaFabryczna.deps.json
+C:\Users\dkali\source\repos\MetodaFabryczna\bin\Debug\netcoreapp3.1\MetodaFabryczna.runtimeconfig.json
+C:\Users\dkali\source\repos\MetodaFabryczna\bin\Debug\netcoreapp3.1\MetodaFabryczna.runtimeconfig.dev.json
+C:\Users\dkali\source\repos\MetodaFabryczna\bin\Debug\netcoreapp3.1\MetodaFabryczna.dll
+C:\Users\dkali\source\repos\MetodaFabryczna\bin\Debug\netcoreapp3.1\MetodaFabryczna.pdb
+C:\Users\dkali\source\repos\MetodaFabryczna\obj\Debug\netcoreapp3.1\MetodaFabryczna.csprojAssemblyReference.cache
+C:\Users\dkali\source\repos\MetodaFabryczna\obj\Debug\netcoreapp3.1\MetodaFabryczna.AssemblyInfoInputs.cache
+C:\Users\dkali\source\repos\MetodaFabryczna\obj\Debug\netcoreapp3.1\MetodaFabryczna.AssemblyInfo.cs
+C:\Users\dkali\source\repos\MetodaFabryczna\obj\Debug\netcoreapp3.1\MetodaFabryczna.csproj.CoreCompileInputs.cache
+C:\Users\dkali\source\repos\MetodaFabryczna\obj\Debug\netcoreapp3.1\MetodaFabryczna.dll
+C:\Users\dkali\source\repos\MetodaFabryczna\obj\Debug\netcoreapp3.1\MetodaFabryczna.pdb
+C:\Users\dkali\source\repos\MetodaFabryczna\obj\Debug\netcoreapp3.1\MetodaFabryczna.genruntimeconfig.cache
